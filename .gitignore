@@ -1,0 +1,10 @@
+# Java and Maven
+/backend/target/
+
+# Node dependencies
+/frontend/node_modules/
+
+# IDE / OS files
+/.idea/
+*.log
+.DS_Store
